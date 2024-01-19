@@ -4,6 +4,7 @@
 Defining a function that returns the minimum number of
 operations required to have n H characters
 """
+
 def minOperations(n):
     '''
     Function that returns the number of operations
